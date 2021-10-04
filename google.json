@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "reporting-272008",
+  "private_key_id": "806a49d6ba6d817e98508fdeea91064d74e7fdbb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/ZWEpvRAOQn08\nehcflzLinPQmJJxfGVRYBQKgu8FoWbkcF6ajgvQ7UibLzzL1QTruw0/ST5cBVduG\nWHbbxk59wqUGKferx3K30FlUrDP/ZZTyYRyifC6vFDBQNyNRgrfWh+32i9CvbmPB\nN0isizgGG7mb8z63A1rVE7tbr27oHI4L83tnt1eTrN2VDPUm3VA8GFS20uEuAiuD\n8mErLaVLs0jVLgCi9sYTMq2qyqgVPMAVZ1NVHjzvKIl5+XFflMcEGSSArKh+qRJc\niWT625u+/6QEZxG3YIJpvJSSdobj3rxTSp4wy0oRuiymHAr1ny+iIipychmDJDhw\nLLd5NuQLAgMBAAECggEAVt0ceVRwhoA/lWR1vSUid32zQuJnw7Nbt6zice90ijb6\nT5keTGRhEtEogWQypONrazRiNDlh972vKWxZ2UnJksL1oXQHj0MwOeNJv6d92+IO\n9OgFFmtUxqnbeXRkx5gTdj5vze7LkesARA8ioQh4LzGDDheZ9XaE0WKorCZVJ+sP\ngMg73aEqTFC3q5tb0Jks0U7jGKedfz5ntfYXh5Ptb3tKWKVa3f23YVxXRPMcNJeu\ncRCtRR42K7/BdS2fn+H/KnN3jEMSZX+4Bnn1dY18f8L1UlfIu3VOk4XWsJK07kVb\nzxqe2boDVWUUoWmm0lfEUROVVg9OzvUJsmw1mRrYfQKBgQD4N1m7eXoLNr59xHAG\nDqdvy5PVKLEN6cEC8GRCH/TZB7Y3QRYa+xy2FP0QWZTIM1fwa31g/H2EKop1IqTn\n6KZ/cYI48v7F/eMO2AN4MMFb9ldgwCEvQkRP1aiAS10yjoYzFSd5nxWix5M5qo+W\nX+TkkVBEHsMqELdoNFSubZwptwKBgQDFZeImXxNwbABx045sYbEwVnVWhpCYVPls\nq9QQxI4a9Z7eDKT8Z7QlUf70hAkNeum2aK056ziY1jGG9K5oaN2zxUvLa/yFQ3yl\n64W28uHyT47pDPbIMzB72cLEjXUF80jhIfRbI20LgmuvDozhIqtrSX0fTbESLHKi\nebPgohRoTQKBgCK5G4RuafRHpD5TzJgMVL/+6p9XIe2gVa/jkSLu9YGm4oa4RC9i\nEZInPX+cCIQ5KoQnhVKb/7MNgHECd685jJEnf+AXnix0Z98buOCHcYU74N1YA0xp\nKMVCTmAkKtV3uq5Kt0r8RjqPULkwcwXGRG71JRVieEraK84YBACitMXhAoGAbCb1\nMDbZTLgvyi2yE9m2nhhQs7aIlJ3CBvNh/kni3gyDHX/qCUy8W9JAETIiT5tvX3yc\npGYnHT4F5r46rIQALFXFwE+LDGy8Z5/SJDmQ6BUE5NUwhOHfB4x49P3YBwmTfZ3/\n5stTHII5g7FCKLu5FdAu2K7VfHKT4Ecz8bh72+UCgYEAhfCyzs6AUChhJL558xuB\nupZzqIAm3bSteWOtNS+UpVuZtcf0Y6ON4IYqUKuQFsG4YTWMBqddqb2qylEfUybX\nojfRtGtv1a7R0+x9gEZV77BHq+JpEEjDTL4lbiiFdb9B3ykIuggxrC4/EXGfsGFZ\nzLNMnWPVL1e0GUZJSkmt8vA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "smd-payment-prod@reporting-272008.iam.gserviceaccount.com",
+  "client_id": "102897253592320442783",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smd-payment-prod%40reporting-272008.iam.gserviceaccount.com"
+}
